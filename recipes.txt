@@ -4,10 +4,12 @@ Welcom to GitHub
 
 Its  a fun
 
-technologies
+techno
 
 Version Control
 patch 
 
+Learning GitHub
+Inderjeet Prasad
 
 
